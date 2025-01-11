@@ -1,0 +1,2 @@
+[console_scripts]
+simple_publisher = ros2_python_pkg.day1_simple_publisher:main
